@@ -13,7 +13,7 @@
 <a href="https://discord.com/users/293426677831172097" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
  
-## Overview
+### Overview
 
 
 Olá, sou Raphael Simões Gomes, estudante de Ciência da Computação na FAESA, atualmente no terceiro período. Iniciei minha jornada na programação durante o curso técnico em Jogos Digitais no SESI/SENAI, onde adquiri habilidades sólidas em C#, Unity, Adobe Illustrator, entre muitas outras. Agora, estou aprofundando meus conhecimentos em NodeJS, JavaScript, React, CSS, HTML e em sistemas de gerenciamento de banco de dados, como o MySQL.
@@ -50,7 +50,7 @@ Linguagens & Tecnologias: `Python`, `Java`, `C++`\
 [<img align="left" height="80px" width="80px" alt="ZigTickets" src="https://play-lh.googleusercontent.com/wKwW77zj6Gd-llTDakdjSDnWUPKSMDGXhnZSXel3A3qQSiM1cbDvuspBpQk15tiT9ik"/>]()
 
 **Curso de JavaScript e TypeScript do básico ao avançado JS/TS** \
-[**Udemy**](https://www.udemy.com) • Março 2024\
+[**Udemy**](https://www.udemy.com) • Janeiro 2024\
 Linguagens & Tecnologias: `JavaScript`, `Typescript`, `NodeJS`,`React`\
 <br/>
 
@@ -61,7 +61,7 @@ Linguagens & Tecnologias: `JavaScript`, `Typescript`, `NodeJS`,`React`\
 Linguagens & Tecnologias: `GitHub`,`.NET`,`C#`,`Docker`,`My SQL`\
 <br/>
 
-## Technology
+### Technology 🛠
 
 ### Main tools:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
@@ -79,12 +79,7 @@ Linguagens & Tecnologias: `GitHub`,`.NET`,`C#`,`Docker`,`My SQL`\
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 
-### Studying in this moment:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-
-### Other tools
+### Other tools 🛠
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Unity](https://img.shields.io/badge/-unity-0D1117?style=for-the-badge&logo=unity&labelColor=0D1117)&nbsp;
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
