@@ -32,7 +32,6 @@
 </p>
 
 ### Tecnologias utilizadas atualmente 🛠
-<br/>
 
 <p align="left">
   <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/800px-Adobe_Illustrator_CC_icon.svg.png" />
