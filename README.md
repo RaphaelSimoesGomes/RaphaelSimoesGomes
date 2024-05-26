@@ -20,6 +20,7 @@
   </p>
   
 <br/>
+
 ### Linguagens 
 <p align="left">
   <img height="40" width="40" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/5679eabb0e2369bba208a6819d32a8e2a3ac04d8/icons/python.svg" />
@@ -48,6 +49,7 @@
 </p>
 
 <br/>
+
 ### Experiências de Trabalho 💼
 
 Abaixo você encontrará minhas experiências de trabalho mais recentes:
