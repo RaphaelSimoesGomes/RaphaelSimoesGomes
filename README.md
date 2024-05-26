@@ -82,7 +82,7 @@ Linguagens & Tecnologias: `GitHub`,`.NET`,`C#`,`Docker`,`My SQL`\
   <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/800px-Adobe_Illustrator_CC_icon.svg.png" />
   <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" />
   <img height="32" width="32" src="https://github.githubassets.com/favicons/favicon-dark.svg" />
-  <img height="32" width="32" src="https://labs.mysql.com/common/themes/sakila/favicon.ico" />
+  <img height="32" width="32" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" />
   <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/2101px-Adobe_After_Effects_CC_icon.svg.png" />
   <img height="32" width="32" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" />
   <img height="32" width="32" src="https://img.utdstc.com/icon/35c/d74/35cd7424ef93ceb591951b35b0bacbae5609369c7fba7a090781be0e8b93d7ba" />
