@@ -24,10 +24,10 @@ Olá, sou Raphael Simões Gomes, estudante de Ciência da Computação na FAESA,
 
 Abaixo você encontrará minhas experiências de trabalho mais recentes:
 
-[<img align="left" height="80px" width="80px" alt="FIX" src="https://www.faesa.br/hubfs/site/cropped-logo_faesa_perfil.png"/>](https://www.faesa.br/formas-de-ingresso?utm_source=google&utm_medium=cpc&utm_campaign=vitoria_pesquisa_2024.2&utm_term=trafego&utm_content=institucional&utm_term=faesa&utm_campaign=FAESA+%7C+INSTITUCIONAL+%7C+REDE+DE+PESQUISA+%7C+CARIACICA+%7C+2024.2+%7C+CT&utm_source=adwords&utm_medium=ppc&hsa_acc=2813713066&hsa_cam=21288538301&hsa_grp=163957613404&hsa_ad=699389621685&hsa_src=g&hsa_tgt=kwd-320080805674&hsa_kw=faesa&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjwu8uyBhC6ARIsAKwBGpQBZ2BxSK9N37bC6cul47dSUCTLyfWgFJ127VBUKsAFAgmkLewc50IaAlaZEALw_wcB)
+[<img align="left" height="80px" width="80px" alt="FIX" src="https://www.faesa.br/hubfs/site/cropped-logo_faesa_perfil.png"/>](https://www.faesa.br)
 
-**Estágio de TI** \
-[**FIX Soluções Inteligentes**](https://fixsi.com.br/) • Abril 2024\
+**Técnico de TI** \
+[**CET-FAESA**](https://www.faesa.br) • Abril 2024\
 <br/>
 
 [<img align="left" height="80px" width="80px" alt="ZigTickets" src="https://media.licdn.com/dms/image/D4D0BAQEA561Ws9XxBg/company-logo_200_200/0/1694439830642/superticket_logo?e=2147483647&v=beta&t=mu4Evv9cLppKBXqhN1TBNtYRx1gyPJYJ_2oWwAR3UMk"/>](https://www.zig.tickets/?st=Esp%C3%ADrito%20Santo)
