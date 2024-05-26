@@ -75,29 +75,20 @@ Linguagens & Tecnologias: `JavaScript`, `Typescript`, `NodeJS`,`React`\
 Linguagens & Tecnologias: `GitHub`,`.NET`,`C#`,`Docker`,`My SQL`\
 <br/>
 
-### Technology 🛠
+### Tecnologias utilizadas atualmente 🛠
 
 <p align="left">
   <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/800px-Adobe_Illustrator_CC_icon.svg.png" />
   <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" />
   <img height="32" width="32" src="https://github.githubassets.com/favicons/favicon-dark.svg" />
-  <img height="32" width="32" src="https://github.githubassets.com/favicons/favicon-dark.svg" />
+  <img height="32" width="32" src="https://labs.mysql.com/common/themes/sakila/favicon.ico" />
   <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/2101px-Adobe_After_Effects_CC_icon.svg.png" />
   <img height="32" width="32" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" />
-  
+  <img height="32" width="32" src="https://unity.com/themes/contrib/unity_base/images/favicons/favicon.ico" />
+  <img height="32" width="32" src="https://en.wikipedia.org/wiki/Microsoft_Excel#/media/File:Microsoft_Office_Excel_(2019–present).svg" />
+  <img height="32" width="32" src="https://en.wikipedia.org/wiki/Microsoft_Word#/media/File:Microsoft_Office_Word_(2019–present).svg" />
+  <img height="32" width="32" src="https://en.wikipedia.org/wiki/Microsoft_PowerPoint#/media/File:Microsoft_Office_PowerPoint_(2019–present).svg" />
 </p>
-
-### Other tools 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Unity](https://img.shields.io/badge/-unity-0D1117?style=for-the-badge&logo=unity&labelColor=0D1117)&nbsp;
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)&nbsp;
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)&nbsp;
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)&nbsp;
-<br/>
-<br/>
-<br/>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
