@@ -18,9 +18,8 @@
   <p>
   Olá, sou Raphael Simões Gomes, estudante de Ciência da Computação na FAESA, atualmente no terceiro período. Iniciei minha jornada na programação durante o curso técnico em Jogos Digitais no   SESI/SENAI, onde adquiri habilidades sólidas em C#, Unity, Adobe Illustrator, entre muitas outras. Agora, estou aprofundando meus conhecimentos em NodeJS, JavaScript, React, CSS, HTML e em sistemas de gerenciamento de banco de dados, como o MySQL.
   </p>
-  
-<br/>
 
+  
 ### Linguagens 
 <p align="left">
   <img height="40" width="40" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/5679eabb0e2369bba208a6819d32a8e2a3ac04d8/icons/python.svg" />
@@ -48,7 +47,6 @@
   <img height="32" width="32" src="https://res-1.cdn.office.net/officeonline/pods/s/h25FD28BFF140E152_resources/1033/FavIcon_Ppt.ico" />
 </p>
 
-<br/>
 
 ### Experiências de Trabalho 💼
 
