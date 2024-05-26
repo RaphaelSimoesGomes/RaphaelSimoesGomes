@@ -13,7 +13,7 @@
 <a href="https://discord.com/users/293426677831172097" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
  
-### Overview
+### Overview 💬
 
 
 Olá, sou Raphael Simões Gomes, estudante de Ciência da Computação na FAESA, atualmente no terceiro período. Iniciei minha jornada na programação durante o curso técnico em Jogos Digitais no SESI/SENAI, onde adquiri habilidades sólidas em C#, Unity, Adobe Illustrator, entre muitas outras. Agora, estou aprofundando meus conhecimentos em NodeJS, JavaScript, React, CSS, HTML e em sistemas de gerenciamento de banco de dados, como o MySQL.
@@ -36,8 +36,10 @@ Abaixo você encontrará minhas experiências de trabalho mais recentes:
 **Estágio de Anti-fraude** \
 [**Zig.Tickets**](https://www.zig.tickets/?st=Esp%C3%ADrito%20Santo) • Abril 2022 - Outubro 2022  \
 <br/>
+<br/>
 
 ### Cursos & Certificados 🎓
+
 
 Abaixo você encontrará os cursos concluídos e cursos em andamento:
 
