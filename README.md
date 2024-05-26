@@ -29,7 +29,7 @@ Abaixo você encontrará minhas experiências de trabalho mais recentes:
 **Técnico de TI** \
 [**CET-FAESA**](https://www.faesa.br) • Abril 2024\
 <br/>
-
+<br/>
 [<img align="left" height="80px" width="80px" alt="ZigTickets" src="https://media.licdn.com/dms/image/D4D0BAQEA561Ws9XxBg/company-logo_200_200/0/1694439830642/superticket_logo?e=2147483647&v=beta&t=mu4Evv9cLppKBXqhN1TBNtYRx1gyPJYJ_2oWwAR3UMk"/>](https://www.zig.tickets/?st=Esp%C3%ADrito%20Santo)
 
 **Estágio de Anti-fraude** \
@@ -79,7 +79,7 @@ Linguagens & Tecnologias: `GitHub`,`.NET`,`C#`,`Docker`,`My SQL`\
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 
-### Other tools 🛠
+### Other tools 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Unity](https://img.shields.io/badge/-unity-0D1117?style=for-the-badge&logo=unity&labelColor=0D1117)&nbsp;
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
