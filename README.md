@@ -32,9 +32,8 @@ Abaixo você encontrará minhas experiências de trabalho mais recentes:
 
 [<img align="left" height="80px" width="80px" alt="ZigTickets" src="https://media.licdn.com/dms/image/D4D0BAQEA561Ws9XxBg/company-logo_200_200/0/1694439830642/superticket_logo?e=2147483647&v=beta&t=mu4Evv9cLppKBXqhN1TBNtYRx1gyPJYJ_2oWwAR3UMk"/>](https://www.zig.tickets/?st=Esp%C3%ADrito%20Santo)
 
-**Estágio de Design** \
-[**Zig.Tickets**](https://www.zig.tickets/?st=Esp%C3%ADrito%20Santo) • Outubro 2021 - Junho 2022  \
-Linguagens & Tecnologias: `Adobe Premiere`, `Adobe Photoshop`, `Figma`, `Adobe Illustrator`\
+**Estágio de Anti-fraude** \
+[**Zig.Tickets**](https://www.zig.tickets/?st=Esp%C3%ADrito%20Santo) • Abril 2022 - Outubro 2022  \
 <br/>
 
 ### Cursos & Certificados 🎓
@@ -44,22 +43,22 @@ Abaixo você encontrará os cursos concluídos e cursos em andamento:
 [<img align="left" height="80px" width="80px" alt="FAESA" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSSJ5TyESs-WoQwyVfJMvGE6FT1DMWhgBZ3tiMVZ8REg&s"/>](https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s176-c-k-c0x00ffffff-no-rj)
 
 **Ciência da Computação** \
-[**FAESA - Centro Universitário**](https://www.faesa.br/) • Janeiro 2023 - Dezembro 2026\
+[**FAESA - Centro Universitário**](https://www.faesa.br/) • Fevereiro 2023 - Dezembro 2026\
 Linguagens & Tecnologias: `Python`, `Java`, `C++`\
-<br/>
-
-[<img align="left" height="80px" width="80px" alt="OneBitCode" src="https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s176-c-k-c0x00ffffff-no-rj"/>](https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s176-c-k-c0x00ffffff-no-rj)
-
-**JavaScript FullStack** \
-[**OneBitCode**](https://www.onebitcode.com) • Março 2024\
-Linguagens & Tecnologias: `JavaScript`, `Typescript`, `NodeJS`\
 <br/>
 
 [<img align="left" height="80px" width="80px" alt="ZigTickets" src="https://play-lh.googleusercontent.com/wKwW77zj6Gd-llTDakdjSDnWUPKSMDGXhnZSXel3A3qQSiM1cbDvuspBpQk15tiT9ik"/>]()
 
-**Java | Programação Orientada a Objetos** \
-[**Udemy**](https://www.udemy.com/course/java-curso-completo/?kw=jav&src=sac) • Fevereiro 2024\
-Linguagens & Tecnologias: `Java`\
+**Curso de JavaScript e TypeScript do básico ao avançado JS/TS** \
+[**Udemy**](https://www.udemy.com) • Março 2024\
+Linguagens & Tecnologias: `JavaScript`, `Typescript`, `NodeJS`,`React`\
+<br/>
+
+[<img align="left" height="80px" width="80px" alt="Dio" src="https://media.licdn.com/dms/image/D4D0BAQGVnRzLNvSenA/company-logo_200_200/0/1701787387170/dio_makethechange_logo?e=1724284800&v=beta&t=zGhUG5IY6aJXlZWohqDWcFZIwG11Qi7c0TFDb8uEnho"/>]()
+
+**.NET Developer** \
+[**Dio**](https://www.dio.me/) • Abril 2024\
+Linguagens & Tecnologias: `GitHub`,`.NET`,`C#`,`Docker`,`My SQL`\
 <br/>
 
 ## Technology
