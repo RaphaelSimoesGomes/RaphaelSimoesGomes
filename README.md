@@ -31,8 +31,6 @@ Olá, sou Raphael Simões Gomes, estudante de Ciência da Computação na FAESA,
     <img height="40" width="40" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/5679eabb0e2369bba208a6819d32a8e2a3ac04d8/icons/csharp.svg" />
   <img height="40" width="40" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" />
 </p>
-<br/>
-<br/>
 
 ### Experiências de Trabalho 💼
 
