@@ -31,6 +31,22 @@
   <img height="40" width="40" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" />
 </p>
 
+### Tecnologias utilizadas atualmente 🛠
+<br/>
+
+<p align="left">
+  <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/800px-Adobe_Illustrator_CC_icon.svg.png" />
+  <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" />
+  <img height="32" width="32" src="https://github.githubassets.com/favicons/favicon-dark.svg" />
+  <img height="32" width="32" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" />
+  <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/2101px-Adobe_After_Effects_CC_icon.svg.png" />
+  <img height="32" width="32" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" />
+  <img height="32" width="32" src="https://img.utdstc.com/icon/35c/d74/35cd7424ef93ceb591951b35b0bacbae5609369c7fba7a090781be0e8b93d7ba" />
+  <img height="32" width="32" src="https://res-1.cdn.office.net/officeonline/x/s/h63BD80475830AA69__layouts/resources/FavIcon_Excel.ico" />
+  <img height="32" width="32" src="https://res-1.cdn.office.net/officeonline/wv/s/h4FBD8CC4075E1795_resources/1033/FavIcon_Word.ico" />
+  <img height="32" width="32" src="https://res-1.cdn.office.net/officeonline/pods/s/h25FD28BFF140E152_resources/1033/FavIcon_Ppt.ico" />
+</p>
+
 ### Experiências de Trabalho 💼
 
 Abaixo você encontrará minhas experiências de trabalho mais recentes:
@@ -74,22 +90,6 @@ Linguagens & Tecnologias: `JavaScript`, `Typescript`, `NodeJS`,`React`\
 [**Dio**](https://www.dio.me/) • Abril 2024\
 Linguagens & Tecnologias: `GitHub`,`.NET`,`C#`,`Docker`,`My SQL`\
 <br/>
-
-### Tecnologias utilizadas atualmente 🛠
-<br/>
-
-<p align="left">
-  <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/800px-Adobe_Illustrator_CC_icon.svg.png" />
-  <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" />
-  <img height="32" width="32" src="https://github.githubassets.com/favicons/favicon-dark.svg" />
-  <img height="32" width="32" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" />
-  <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/2101px-Adobe_After_Effects_CC_icon.svg.png" />
-  <img height="32" width="32" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" />
-  <img height="32" width="32" src="https://img.utdstc.com/icon/35c/d74/35cd7424ef93ceb591951b35b0bacbae5609369c7fba7a090781be0e8b93d7ba" />
-  <img height="32" width="32" src="https://res-1.cdn.office.net/officeonline/x/s/h63BD80475830AA69__layouts/resources/FavIcon_Excel.ico" />
-  <img height="32" width="32" src="https://res-1.cdn.office.net/officeonline/wv/s/h4FBD8CC4075E1795_resources/1033/FavIcon_Word.ico" />
-  <img height="32" width="32" src="https://res-1.cdn.office.net/officeonline/pods/s/h25FD28BFF140E152_resources/1033/FavIcon_Ppt.ico" />
-</p>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
