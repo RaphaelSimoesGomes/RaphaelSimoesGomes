@@ -31,7 +31,6 @@ Abaixo você encontrará minhas experiências de trabalho mais recentes:
 <br/>
 <br/>
 <br/>
-<br/>
 [<img align="left" height="80px" width="80px" alt="ZigTickets" src="https://media.licdn.com/dms/image/D4D0BAQEA561Ws9XxBg/company-logo_200_200/0/1694439830642/superticket_logo?e=2147483647&v=beta&t=mu4Evv9cLppKBXqhN1TBNtYRx1gyPJYJ_2oWwAR3UMk"/>](https://www.zig.tickets/?st=Esp%C3%ADrito%20Santo)
 
 **Estágio de Anti-fraude** \
