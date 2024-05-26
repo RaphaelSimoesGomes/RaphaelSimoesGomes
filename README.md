@@ -85,7 +85,7 @@ Linguagens & Tecnologias: `GitHub`,`.NET`,`C#`,`Docker`,`My SQL`\
   <img height="32" width="32" src="https://labs.mysql.com/common/themes/sakila/favicon.ico" />
   <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/2101px-Adobe_After_Effects_CC_icon.svg.png" />
   <img height="32" width="32" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" />
-  <img height="32" width="32" src="https://unity.com/themes/contrib/unity_base/images/favicons/favicon.ico" />
+  <img height="32" width="32" src="https://img.utdstc.com/icon/35c/d74/35cd7424ef93ceb591951b35b0bacbae5609369c7fba7a090781be0e8b93d7ba" />
   <img height="32" width="32" src="https://res-1.cdn.office.net/officeonline/x/s/h63BD80475830AA69__layouts/resources/FavIcon_Excel.ico" />
   <img height="32" width="32" src="https://res-1.cdn.office.net/officeonline/wv/s/h4FBD8CC4075E1795_resources/1033/FavIcon_Word.ico" />
   <img height="32" width="32" src="https://res-1.cdn.office.net/officeonline/pods/s/h25FD28BFF140E152_resources/1033/FavIcon_Ppt.ico" />
