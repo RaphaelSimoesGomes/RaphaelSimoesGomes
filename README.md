@@ -76,6 +76,7 @@ Linguagens & Tecnologias: `GitHub`,`.NET`,`C#`,`Docker`,`My SQL`\
 <br/>
 
 ### Tecnologias utilizadas atualmente 🛠
+<br/>
 
 <p align="left">
   <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/800px-Adobe_Illustrator_CC_icon.svg.png" />
@@ -85,9 +86,9 @@ Linguagens & Tecnologias: `GitHub`,`.NET`,`C#`,`Docker`,`My SQL`\
   <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/2101px-Adobe_After_Effects_CC_icon.svg.png" />
   <img height="32" width="32" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" />
   <img height="32" width="32" src="https://unity.com/themes/contrib/unity_base/images/favicons/favicon.ico" />
-  <img height="32" width="32" src="https://en.wikipedia.org/wiki/Microsoft_Excel#/media/File:Microsoft_Office_Excel_(2019–present).svg" />
-  <img height="32" width="32" src="https://en.wikipedia.org/wiki/Microsoft_Word#/media/File:Microsoft_Office_Word_(2019–present).svg" />
-  <img height="32" width="32" src="https://en.wikipedia.org/wiki/Microsoft_PowerPoint#/media/File:Microsoft_Office_PowerPoint_(2019–present).svg" />
+  <img height="32" width="32" src="https://res-1.cdn.office.net/officeonline/x/s/h63BD80475830AA69__layouts/resources/FavIcon_Excel.ico" />
+  <img height="32" width="32" src="https://res-1.cdn.office.net/officeonline/wv/s/h4FBD8CC4075E1795_resources/1033/FavIcon_Word.ico" />
+  <img height="32" width="32" src="https://res-1.cdn.office.net/officeonline/pods/s/h25FD28BFF140E152_resources/1033/FavIcon_Ppt.ico" />
 </p>
 
 <div align="center">
