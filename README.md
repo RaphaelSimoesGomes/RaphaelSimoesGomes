@@ -19,7 +19,7 @@
   <img height="40" width="40" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" />
 </p>
 
-<h3 align="left">🛠 Tecnologias utilizadas atualmente:</h3>
+<h3 align="left">🛠 Outras tecnologias utilizadas também:</h3>
 
 <p align="left">
   <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/800px-Adobe_Illustrator_CC_icon.svg.png" />
