@@ -15,11 +15,13 @@
 <h3 align="left">📖 Linguagens:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,java,dotnet,cs,py&perline=5)](https://skillicons.dev)
+<br/>
 
 <h3>🛠 Outras tecnologias utilizadas também:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=ai,ps,github,mysql,vscode,unity,windows&perline=5)](https://skillicons.dev)
 <br/>
+
 <h3 align="left">💼Experiências de Trabalho:</h3>
 <i>Abaixo você encontrará minhas experiências de trabalho mais recentes</i>
 </br>
@@ -39,10 +41,8 @@
 <br/>
 
 <details>
-<summary><h3>Cursos & Certificados 🎓</h3><br/>
+<summary><h3>Cursos & Certificados 🎓</h3><br/>   <i>Nessa sessão, você pode encontra alguma das minhas formações em andamento ou concluídas. 📚</i>
 </summary>
-   <i>Nessa sessão, você pode encontra alguma das minhas formações em andamento ou concluídas. 📚</i>
-  <br/>
   <br/>
   
    [<img align="left" height="80px" width="80px" alt="FAESA" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSSJ5TyESs-WoQwyVfJMvGE6FT1DMWhgBZ3tiMVZ8REg&s"/>](https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s176-c-k-c0x00ffffff-no-rj)
@@ -59,6 +59,7 @@ Linguagens & Tecnologias: `JavaScript`, `Typescript`, `NodeJS`,`React`\
 **.NET Developer** \
 [**Dio**](https://www.dio.me/) • Abril 2024\
 Linguagens & Tecnologias: `SQL Server`,`GitHub`,`.NET`,`C#`,`Docker`,`My SQL`\
+<br/>
 </details>
 
 <h3 align="left">📩 Contatos:</h3>
