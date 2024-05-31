@@ -31,7 +31,7 @@ Abaixo você encontrará minhas experiências de trabalho mais recentes
 <br/>
 
 
- <details><summary><h3>Cursos & Certificados 🎓</h3>
+ <details><summary><h3 align="left">Cursos & Certificados 🎓</h3>
    <p>Nessa sessão, você pode encontra alguma das minhas formações em andamento ou concluídas. 📚</p></summary>
    
    
