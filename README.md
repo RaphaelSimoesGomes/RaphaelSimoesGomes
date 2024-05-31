@@ -4,28 +4,14 @@
 <p>
   Olá, sou Raphael Simões Gomes, estudante de Ciência da Computação na FAESA, atualmente no terceiro período. Iniciei minha jornada na programação durante o curso técnico em Jogos Digitais no   SESI/SENAI, onde adquiri habilidades sólidas em C#, Unity, Adobe Illustrator, entre muitas outras. Agora, estou aprofundando meus conhecimentos em NodeJS, JavaScript, React, CSS, HTML e em sistemas de gerenciamento de banco de dados, como o MySQL.
   </p>
-<br/>
-
-
 
 <h3 align="left">📖 Linguagens:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,java,dotnet,cs,py&perline=5)](https://skillicons.dev)
 
-<h3 align="left">🛠 Outras tecnologias utilizadas também:</h3>
+<h3>🛠 Outras tecnologias utilizadas também:</h3>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ai" height="45" alt="ai"  />
-  <img src="https://skillicons.dev/icons?i=ps" height="45" alt="ps"  />
-  <img src="https://skillicons.dev/icons?i=github" height="45" alt="github"  />
-  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql"  />
-  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo"  />
-  <img src="https://skillicons.dev/icons?i=unity" height="45" alt="unity"  />
-    <img src="https://skillicons.dev/icons?i=ex" height="45" alt="unity"  />
-  <img height="32" width="32" src="https://res-1.cdn.office.net/officeonline/x/s/h63BD80475830AA69__layouts/resources/FavIcon_Excel.ico" />
-  <img height="32" width="32" src="https://res-1.cdn.office.net/officeonline/wv/s/h4FBD8CC4075E1795_resources/1033/FavIcon_Word.ico" />
-  <img height="32" width="32" src="https://res-1.cdn.office.net/officeonline/pods/s/h25FD28BFF140E152_resources/1033/FavIcon_Ppt.ico" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=ai,ps,github,mysql,vscode,unity,windows&perline=5)](https://skillicons.dev)
 <br/>
 <h3 align="left">💼Experiências de Trabalho:</h3>
 Abaixo você encontrará minhas experiências de trabalho mais recentes
@@ -43,8 +29,32 @@ Abaixo você encontrará minhas experiências de trabalho mais recentes
 **Estágio de Tester de software** \
 [**Zig.Tickets**](https://www.zig.tickets/?st=Esp%C3%ADrito%20Santo) • Abril 2022 - Outubro 2022  \
 <br/>
-<br/>
 
+
+ <details><summary><h3>Cursos & Certificados 🎓</h3>
+   <p>Nessa sessão, você pode encontra alguma das minhas formações em andamento ou concluídas. 📚</p></summary>
+   
+   
+   [<img align="left" height="80px" width="80px" alt="FAESA" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSSJ5TyESs-WoQwyVfJMvGE6FT1DMWhgBZ3tiMVZ8REg&s"/>](https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s176-c-k-c0x00ffffff-no-rj)
+**Ciência da Computação** \
+[**FAESA - Centro Universitário**](https://www.faesa.br/) • Fevereiro 2023 - Dezembro 2026\
+Linguagens & Tecnologias: `Python`, `Java`, `C++`\
+<br/>
+[<img align="left" height="80px" width="80px" alt="ZigTickets" src="https://play-lh.googleusercontent.com/wKwW77zj6Gd-llTDakdjSDnWUPKSMDGXhnZSXel3A3qQSiM1cbDvuspBpQk15tiT9ik"/>]()
+**Curso de JavaScript e TypeScript do básico ao avançado JS/TS** \
+[**Udemy**](https://www.udemy.com) • Janeiro 2024\
+Linguagens & Tecnologias: `JavaScript`, `Typescript`, `NodeJS`,`React`\
+<br/>
+[<img align="left" height="80px" width="80px" alt="Dio" src="https://media.licdn.com/dms/image/D4D0BAQGVnRzLNvSenA/company-logo_200_200/0/1701787387170/dio_makethechange_logo?e=1724284800&v=beta&t=zGhUG5IY6aJXlZWohqDWcFZIwG11Qi7c0TFDb8uEnho"/>]()
+**.NET Developer** \
+[**Dio**](https://www.dio.me/) • Abril 2024\
+Linguagens & Tecnologias: `SQL Server`,`GitHub`,`.NET`,`C#`,`Docker`,`My SQL`\
+<br/>
+   
+
+
+
+</details>
 <h3 align="left">📩 Contatos:</h3>
 
 <p>Estou deixando aqui outras maneiras onde você pode me encontrar ou me contatar, fique à vontade </p>
