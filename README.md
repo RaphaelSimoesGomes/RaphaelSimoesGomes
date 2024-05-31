@@ -1,7 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00494c&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=75dedf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Raphael+Simões;I'm+21+years+old;I+am+from+Vitória,+Espírito+Santo;I+study+Computer+Science+at+Faesa;Be+Welcome!)](https://git.io/typing-svg)
-
 <br/>
 <div align="center"> 
 <a href = "mailto:raphaelsimoesgomes1@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
