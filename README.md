@@ -1,15 +1,16 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00494c&height=120&section=header"/>
-<h3 align="left">💬 Overview:</h3>
-
-<p>
-  Olá, sou Raphael Simões Gomes, estudante de Ciência da Computação na FAESA, atualmente no terceiro período. Iniciei minha jornada na programação durante o curso técnico em Jogos Digitais no   SESI/SENAI, onde adquiri habilidades sólidas em C#, Unity, Adobe Illustrator, entre muitas outras. Agora, estou aprofundando meus conhecimentos em NodeJS, JavaScript, React, CSS, HTML e em sistemas de gerenciamento de banco de dados, como o MySQL.
-  </p>
 <details>
   <summary><h4>Github Stats ⚡</h4></summary>
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=RaphaelSimoesGomes&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelSimoesGomes&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 </details>
+<h3 align="left">💬 Overview:</h3>
+
+<p>
+  Olá, sou Raphael Simões Gomes, estudante de Ciência da Computação na FAESA, atualmente no terceiro período. Iniciei minha jornada na programação durante o curso técnico em Jogos Digitais no   SESI/SENAI, onde adquiri habilidades sólidas em C#, Unity, Adobe Illustrator, entre muitas outras. Agora, estou aprofundando meus conhecimentos em NodeJS, JavaScript, React, CSS, HTML e em sistemas de gerenciamento de banco de dados, como o MySQL.
+  </p>
+
 
 <h3 align="left">📖 Linguagens:</h3>
 
@@ -20,7 +21,7 @@
 [![My Skills](https://skillicons.dev/icons?i=ai,ps,github,mysql,vscode,unity,windows&perline=5)](https://skillicons.dev)
 <br/>
 <h3 align="left">💼Experiências de Trabalho:</h3>
-Abaixo você encontrará minhas experiências de trabalho mais recentes
+<i>Abaixo você encontrará minhas experiências de trabalho mais recentes</i>
 </br>
 </br>
 
@@ -37,9 +38,8 @@ Abaixo você encontrará minhas experiências de trabalho mais recentes
 <br/>
 
 <details>
-<summary><h3>Cursos & Certificados 🎓</h3>
-   <p>Nessa sessão, você pode encontra alguma das minhas formações em andamento ou concluídas. 📚</p></summary>
-   
+<summary><h3>Cursos & Certificados 🎓</h3><br/>
+   <i>Nessa sessão, você pode encontra alguma das minhas formações em andamento ou concluídas. 📚</i><br/><br/></summary>
    
    [<img align="left" height="80px" width="80px" alt="FAESA" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSSJ5TyESs-WoQwyVfJMvGE6FT1DMWhgBZ3tiMVZ8REg&s"/>](https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s176-c-k-c0x00ffffff-no-rj)
 **Ciência da Computação** \
@@ -55,15 +55,11 @@ Linguagens & Tecnologias: `JavaScript`, `Typescript`, `NodeJS`,`React`\
 **.NET Developer** \
 [**Dio**](https://www.dio.me/) • Abril 2024\
 Linguagens & Tecnologias: `SQL Server`,`GitHub`,`.NET`,`C#`,`Docker`,`My SQL`\
-<br/>
-   
-
-
-
 </details>
+
 <h3 align="left">📩 Contatos:</h3>
 
-<p>Estou deixando aqui outras maneiras onde você pode me encontrar ou me contatar, fique à vontade </p>
+<i>Estou deixando aqui outras maneiras onde você pode me encontrar ou me contatar, fique à vontade </i>
 
 <div align="left"> 
 <a href = "mailto:raphaelsimoesgomes1@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
