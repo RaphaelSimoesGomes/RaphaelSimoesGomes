@@ -4,6 +4,12 @@
 <p>
   Olá, sou Raphael Simões Gomes, estudante de Ciência da Computação na FAESA, atualmente no terceiro período. Iniciei minha jornada na programação durante o curso técnico em Jogos Digitais no   SESI/SENAI, onde adquiri habilidades sólidas em C#, Unity, Adobe Illustrator, entre muitas outras. Agora, estou aprofundando meus conhecimentos em NodeJS, JavaScript, React, CSS, HTML e em sistemas de gerenciamento de banco de dados, como o MySQL.
   </p>
+<details>
+  <summary><h4>Github Stats ⚡</h4></summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=RaphaelSimoesGomes&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelSimoesGomes&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
 
 <h3 align="left">📖 Linguagens:</h3>
 
