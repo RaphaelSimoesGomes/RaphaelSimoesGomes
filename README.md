@@ -92,10 +92,4 @@ Linguagens & Tecnologias: `JavaScript`, `Typescript`, `NodeJS`,`React`\
 Linguagens & Tecnologias: `GitHub`,`.NET`,`C#`,`Docker`,`My SQL`\
 <br/>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{RaphaelSimõesGomes}/count.svg" /></p> 
-<br></div>
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00494c&height=120&section=footer"/>
