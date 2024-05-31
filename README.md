@@ -36,6 +36,7 @@
 **Estágio de Tester de software** \
 [**Zig.Tickets**](https://www.zig.tickets/?st=Esp%C3%ADrito%20Santo) • Abril 2022 - Outubro 2022  \
 <br/>
+<br/>
 
 <details>
 <summary><h3>Cursos & Certificados 🎓</h3><br/>
