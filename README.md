@@ -6,7 +6,11 @@
   <p>
   Olá, sou Raphael Simões Gomes, estudante de Ciência da Computação na FAESA, atualmente no terceiro período. Iniciei minha jornada na programação durante o curso técnico em Jogos Digitais no   SESI/SENAI, onde adquiri habilidades sólidas em C#, Unity, Adobe Illustrator, entre muitas outras. Agora, estou aprofundando meus conhecimentos em NodeJS, JavaScript, React, CSS, HTML e em sistemas de gerenciamento de banco de dados, como o MySQL.
   </p>
-
+  
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=polese-e&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1" height="190" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=polese-e&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=nord&hide_border=true&order=2" height="190" alt="languages graph"  />
+</div>
   
 ### Linguagens 
 <p align="left">
@@ -86,5 +90,7 @@ Linguagens & Tecnologias: `GitHub`,`.NET`,`C#`,`Docker`,`My SQL`\
 <a href="https://www.linkedin.com/in/raphael-simões-91876b203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 <a href="https://discord.com/users/293426677831172097" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
+ 
+<h3 align="left">📩 Contact:</h3>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00494c&height=120&section=footer"/>
