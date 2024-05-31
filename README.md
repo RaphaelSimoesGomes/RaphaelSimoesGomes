@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00494c&height=120&section=header"/>
 <details>
-  <summary><h4>Github Stats ⚡</h4></summary>
+  <summary><h4>Github Stats ⚡</h4><i> (Clique aqui)</i></summary>
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=RaphaelSimoesGomes&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelSimoesGomes&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
@@ -41,7 +41,7 @@
 <br/>
 
 <details>
-<summary><h3>Cursos & Certificados 🎓</h3><br/>   <i>Nessa sessão, você pode encontra alguma das minhas formações em andamento ou concluídas. 📚</i>
+<summary><h3>Cursos & Certificados 🎓</h3><i> (Clique aqui)</i><br/>   <i>Nessa sessão, você pode encontra alguma das minhas formações em andamento ou concluídas. 📚</i>
 </summary>
   <br/>
   
