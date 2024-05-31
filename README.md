@@ -1,8 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00494c&height=120&section=header"/>
 
-<br/>
 
- 
 ### Overview 💬
 
   <p>
@@ -80,6 +78,7 @@ Linguagens & Tecnologias: `JavaScript`, `Typescript`, `NodeJS`,`React`\
 **.NET Developer** \
 [**Dio**](https://www.dio.me/) • Abril 2024\
 Linguagens & Tecnologias: `GitHub`,`.NET`,`C#`,`Docker`,`My SQL`\
+<br/>
 <br/>
 
 <div align="center"> 
