@@ -39,8 +39,11 @@
 
 <details>
 <summary><h3>Cursos & Certificados 🎓</h3><br/>
-   <i>Nessa sessão, você pode encontra alguma das minhas formações em andamento ou concluídas. 📚</i><br/><br/></summary>
-   
+</summary>
+   <i>Nessa sessão, você pode encontra alguma das minhas formações em andamento ou concluídas. 📚</i>
+  <br/>
+  <br/>
+  
    [<img align="left" height="80px" width="80px" alt="FAESA" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSSJ5TyESs-WoQwyVfJMvGE6FT1DMWhgBZ3tiMVZ8REg&s"/>](https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s176-c-k-c0x00ffffff-no-rj)
 **Ciência da Computação** \
 [**FAESA - Centro Universitário**](https://www.faesa.br/) • Fevereiro 2023 - Dezembro 2026\
@@ -60,6 +63,7 @@ Linguagens & Tecnologias: `SQL Server`,`GitHub`,`.NET`,`C#`,`Docker`,`My SQL`\
 <h3 align="left">📩 Contatos:</h3>
 
 <i>Estou deixando aqui outras maneiras onde você pode me encontrar ou me contatar, fique à vontade </i>
+<br/>
 
 <div align="left"> 
 <a href = "mailto:raphaelsimoesgomes1@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
