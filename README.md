@@ -41,7 +41,7 @@
 <br/>
 
 <details>
-<summary><h3>Cursos & Certificados 🎓</h3><i> (Clique aqui)</i><br/>   <i>Nessa sessão, você pode encontra alguma das minhas formações em andamento ou concluídas. 📚</i>
+<summary><h3>🎓Cursos & Certificados:</h3><i> (Clique aqui)</i><br/>   <i>Nessa sessão, você pode encontra alguma das minhas formações em andamento ou concluídas. 📚</i>
 </summary>
   <br/>
   
