@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00494c&height=120&section=header"/>
 <details>
-  <summary><h4>Github Stats ⚡</h4><i> (Clique aqui)</i></summary>
+  <summary><h4>⚡ Github Stats: </h4><i> (Clique aqui)</i></summary>
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=RaphaelSimoesGomes&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelSimoesGomes&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
@@ -22,7 +22,7 @@
 [![My Skills](https://skillicons.dev/icons?i=ai,ps,github,mysql,vscode,unity,windows&perline=5)](https://skillicons.dev)
 <br/>
 
-<h3 align="left">💼Experiências de Trabalho:</h3>
+<h3 align="left">💼 Experiências de Trabalho:</h3>
 <i>Abaixo você encontrará minhas experiências de trabalho mais recentes</i>
 </br>
 </br>
@@ -41,7 +41,7 @@
 <br/>
 
 <details>
-<summary><h3>🎓Cursos & Certificados:</h3><i> (Clique aqui)</i><br/>   <i>Nessa sessão, você pode encontra alguma das minhas formações em andamento ou concluídas. 📚</i>
+<summary><h3>🎓 Cursos & Certificados:</h3><i> (Clique aqui)</i><br/>   <i>Nessa sessão, você pode encontra alguma das minhas formações em andamento ou concluídas. 📚</i>
 </summary>
   <br/>
   
@@ -69,8 +69,8 @@ Linguagens & Tecnologias: `SQL Server`,`GitHub`,`.NET`,`C#`,`Docker`,`My SQL`\
 
 <div align="left"> 
 <a href = "mailto:raphaelsimoesgomes1@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/raphael-simões-91876b203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-<a href="https://discord.com/users/293426677831172097" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/raphael-simões-91876b203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="https://discord.com/users/293426677831172097" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"  target="_blank"></a> 
  </div>
 <br/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00494c&height=120&section=footer"/>
