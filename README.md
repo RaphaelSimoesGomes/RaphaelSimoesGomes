@@ -14,7 +14,7 @@
 
 <h3 align="left">📖 Linguagens:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,java,dotnet,cs,py,laravel,php&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,java,dotnet,cs,py,laravel,php,bootstrap&perline=5)](https://skillicons.dev)
 <br/>
 
 <h3>🛠 Outras tecnologias utilizadas também:</h3>
