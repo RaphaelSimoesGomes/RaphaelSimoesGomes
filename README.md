@@ -11,6 +11,12 @@
   Olá, sou Raphael Simões Gomes, estudante de Ciência da Computação na FAESA, atualmente no quarto período. Iniciei minha jornada na programação durante o curso técnico em Jogos Digitais no   SESI/SENAI, onde adquiri habilidades sólidas em C#, Unity, Adobe Illustrator, entre muitas outras. Agora, estou aprofundando meus conhecimentos em NodeJS, JavaScript, React, CSS, HTML e em sistemas de gerenciamento de banco de dados, como o MySQL.
   </p>
 
+<h3 align="left">🌎</h3>
+
+<p>
+  Hello, my name is Raphael Simões Gomes, and I am a Computer Science student at FAESA, currently in my fourth semester. I began my programming journey during a technical course in Digital Games at SESI/SENAI, where I gained solid skills in C#, Unity, Adobe Illustrator, among many others. Now, I am deepening my knowledge in NodeJS, JavaScript, React, CSS, HTML, and database management systems such as MySQL.
+</p>
+
 
 <h3 align="left">📖 Linguagens:</h3>
 
@@ -32,10 +38,15 @@
 </br>
 </br>
 
+[<img align="left" height="80px" width="80px" alt="ZigTickets" src="https://media.licdn.com/dms/image/v2/D4D0BAQENlpmFDkr26g/company-logo_200_200/company-logo_200_200/0/1727784713364/grupo_aguia_branca_logo?e=1735776000&v=beta&t=_mRnxXUCykxccNH2oy_dijyuQTgzFnY7wDikTXzAf90"/>](https://www.gab.com.br/)
+**Técnico de TI** \
+[**Grupo Águia Branca**](https://www.gab.com.br/) • Agosto 2024 - momento  \
+<br/>
+
 [<img align="left" height="80px" width="80px" alt="FIX" src="https://www.faesa.br/hubfs/site/cropped-logo_faesa_perfil.png"/>](https://www.faesa.br)
 
 **Técnico de TI** \
-[**CET-FAESA**](https://www.faesa.br) • Abril 2024\
+[**CET-FAESA**](https://www.faesa.br) • Abril 2024 - Agosto 2024\
 <br/>
 
 [<img align="left" height="80px" width="80px" alt="ZigTickets" src="https://media.licdn.com/dms/image/D4D0BAQEA561Ws9XxBg/company-logo_200_200/0/1694439830642/superticket_logo?e=2147483647&v=beta&t=mu4Evv9cLppKBXqhN1TBNtYRx1gyPJYJ_2oWwAR3UMk"/>](https://www.zig.tickets/?st=Esp%C3%ADrito%20Santo)
@@ -46,23 +57,28 @@
 <br/>
 
 <details>
-<summary><h3>🎓 Cursos & Certificados:</h3><i> (Clique aqui)</i><br/>   <i>Nessa sessão, você pode encontra alguma das minhas formações em andamento ou concluídas. 📚</i>
+<summary><h3>🎓 Cursos & Certificados:</h3><i> (Clique aqui)</i><br/>   <i>Nessa sessão, você pode encontra alguma das minhas formações em andamento ou concluídas recentemente. 📚 <br/> (Você pode encontrar todos os meus cursos realizados no meu Linkedin)</i>
 </summary>
   <br/>
   
    [<img align="left" height="80px" width="80px" alt="FAESA" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSSJ5TyESs-WoQwyVfJMvGE6FT1DMWhgBZ3tiMVZ8REg&s"/>](https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s176-c-k-c0x00ffffff-no-rj)
 **Ciência da Computação** \
-[**FAESA - Centro Universitário**](https://www.faesa.br/) • Fevereiro 2023 - Dezembro 2026\
+[**FAESA - Centro Universitário**](https://www.faesa.br/) • Dezembro 2026\
 Linguagens & Tecnologias: `Python`, `Java`, `C++`\
+<br/>
+[<img align="left" height="80px" width="80px" alt="Dio" src="https://media.licdn.com/dms/image/v2/D4D0BAQEZkMsv5FwbDA/company-logo_200_200/company-logo_200_200/0/1710187635900/aluracursos_logo?e=1735776000&v=beta&t=1KbTouQQnZpMjfLSEzkChRK9MDet6nxsbG8oI0q6it0"/>]()
+**Java e JDBC: trabalhando com um banco de dados** \
+[**Alura**](https://www.dio.me/) • Em andamento...\
+Linguagens & Tecnologias: `SQL Server`,`GitHub`,`.NET`,`C#`,`Docker`,`My SQL`\
 <br/>
 [<img align="left" height="80px" width="80px" alt="ZigTickets" src="https://play-lh.googleusercontent.com/wKwW77zj6Gd-llTDakdjSDnWUPKSMDGXhnZSXel3A3qQSiM1cbDvuspBpQk15tiT9ik"/>]()
 **Curso de JavaScript e TypeScript do básico ao avançado JS/TS** \
-[**Udemy**](https://www.udemy.com) • Janeiro 2024\
+[**Udemy**](https://www.udemy.com) • Em andamento...\
 Linguagens & Tecnologias: `JavaScript`, `Typescript`, `NodeJS`,`React`\
 <br/>
-[<img align="left" height="80px" width="80px" alt="Dio" src="https://media.licdn.com/dms/image/D4D0BAQGVnRzLNvSenA/company-logo_200_200/0/1701787387170/dio_makethechange_logo?e=1724284800&v=beta&t=zGhUG5IY6aJXlZWohqDWcFZIwG11Qi7c0TFDb8uEnho"/>]()
+[<img align="left" height="80px" width="80px" alt="Dio" src="https://media.licdn.com/dms/image/v2/D4D0BAQG1Fkv7mlaB5g/company-logo_200_200/company-logo_200_200/0/1726841792041/dio_makethechange_logo?e=1735776000&v=beta&t=QUbDBII9lTonr9g1CO0likn2juCpGM5ffWI7qNNS52Y"/>]()
 **.NET Developer** \
-[**Dio**](https://www.dio.me/) • Abril 2024\
+[**Dio**](https://www.dio.me/) • Junho 2024\
 Linguagens & Tecnologias: `SQL Server`,`GitHub`,`.NET`,`C#`,`Docker`,`My SQL`\
 <br/>
 </details>
