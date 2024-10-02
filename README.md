@@ -42,11 +42,13 @@
 **Técnico de TI** \
 [**Grupo Águia Branca**](https://www.gab.com.br/) • Agosto 2024 - momento  \
 <br/>
+<br/>
 
 [<img align="left" height="80px" width="80px" alt="FIX" src="https://www.faesa.br/hubfs/site/cropped-logo_faesa_perfil.png"/>](https://www.faesa.br)
 
 **Técnico de TI** \
 [**CET-FAESA**](https://www.faesa.br) • Abril 2024 - Agosto 2024\
+<br/>
 <br/>
 
 [<img align="left" height="80px" width="80px" alt="ZigTickets" src="https://media.licdn.com/dms/image/D4D0BAQEA561Ws9XxBg/company-logo_200_200/0/1694439830642/superticket_logo?e=2147483647&v=beta&t=mu4Evv9cLppKBXqhN1TBNtYRx1gyPJYJ_2oWwAR3UMk"/>](https://www.zig.tickets/?st=Esp%C3%ADrito%20Santo)
