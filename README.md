@@ -18,76 +18,76 @@
 </p>
 
 
-<h3 align="left">📖 Linguagens:</h3>
+<h3 align="left">📖 Languages:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,java,cs,py,php&perline=5)](https://skillicons.dev)
 <br/>
 
-<h3 align="left">🌐 Frameworks utilizados:</h3>
+<h3 align="left">🌐 Frameworks used:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=react,dotnet,laravel,bootstrap&perline=5)](https://skillicons.dev)
 <br/>
 
-<h3>🛠 Outras tecnologias utilizadas também:</h3>
+<h3>🛠 Other technologies also used:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=ai,ps,github,mysql,vscode,unity,windows&perline=5)](https://skillicons.dev)
 <br/>
 
-<h3 align="left">💼 Experiências de Trabalho:</h3>
-<i>Abaixo você encontrará minhas experiências de trabalho mais recentes</i>
+<h3 align="left">💼 Work Experiences:</h3>
+<i>Below you will find my most recent work experiences.</i>
 </br>
 </br>
 
 [<img align="left" height="80px" width="80px" alt="ZigTickets" src="https://media.licdn.com/dms/image/v2/D4D0BAQENlpmFDkr26g/company-logo_200_200/company-logo_200_200/0/1727784713364/grupo_aguia_branca_logo?e=1735776000&v=beta&t=_mRnxXUCykxccNH2oy_dijyuQTgzFnY7wDikTXzAf90"/>](https://www.gab.com.br/)
-**Técnico de TI** \
-[**Grupo Águia Branca**](https://www.gab.com.br/) • Agosto 2024 - momento  \
+**Internship - IT Technician** \
+[**Grupo Águia Branca**](https://www.gab.com.br/) • August 2024 - moment  \
 <br/>
 <br/>
 
 [<img align="left" height="80px" width="80px" alt="FIX" src="https://www.faesa.br/hubfs/site/cropped-logo_faesa_perfil.png"/>](https://www.faesa.br)
 
-**Técnico de TI** \
-[**CET-FAESA**](https://www.faesa.br) • Abril 2024 - Agosto 2024\
+**Internship - IT Technician** \
+[**CET-FAESA**](https://www.faesa.br) • April 2024 - August 2024\
 <br/>
 <br/>
 
 [<img align="left" height="80px" width="80px" alt="ZigTickets" src="https://media.licdn.com/dms/image/D4D0BAQEA561Ws9XxBg/company-logo_200_200/0/1694439830642/superticket_logo?e=2147483647&v=beta&t=mu4Evv9cLppKBXqhN1TBNtYRx1gyPJYJ_2oWwAR3UMk"/>](https://www.zig.tickets/?st=Esp%C3%ADrito%20Santo)
 
-**Estágio de Tester de software** \
-[**Zig.Tickets**](https://www.zig.tickets/?st=Esp%C3%ADrito%20Santo) • Abril 2022 - Outubro 2022  \
+**Software Tester Internship** \
+[**Zig.Tickets**](https://www.zig.tickets/?st=Esp%C3%ADrito%20Santo) • April 2022 - October 2022  \
 <br/>
 <br/>
 
 <details>
-<summary><h3>🎓 Cursos & Certificados:</h3><i> (Clique aqui)</i><br/>   <i>Nessa sessão, você pode encontra alguma das minhas formações em andamento ou concluídas recentemente. 📚 <br/> (Você pode encontrar todos os meus cursos realizados no meu Linkedin)</i>
+<summary><h3>🎓 Courses & Certificates:</h3><i> (Click here)</i><br/>   <i>In this section, you can find some of my ongoing or recently completed courses. 📚 <br/> (You can find all the courses I've taken on my LinkedIn)</i>
 </summary>
   <br/>
   
    [<img align="left" height="80px" width="80px" alt="FAESA" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSSJ5TyESs-WoQwyVfJMvGE6FT1DMWhgBZ3tiMVZ8REg&s"/>](https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s176-c-k-c0x00ffffff-no-rj)
 **Ciência da Computação** \
-[**FAESA - Centro Universitário**](https://www.faesa.br/) • Dezembro 2026\
-Linguagens & Tecnologias: `Python`, `Java`, `C++`\
+[**FAESA - Centro Universitário**](https://www.faesa.br/) • December 2026\
+Languages & Technologies: `Python`, `Java`, `C++`\
 <br/>
 [<img align="left" height="80px" width="80px" alt="Dio" src="https://media.licdn.com/dms/image/v2/D4D0BAQEZkMsv5FwbDA/company-logo_200_200/company-logo_200_200/0/1710187635900/aluracursos_logo?e=1735776000&v=beta&t=1KbTouQQnZpMjfLSEzkChRK9MDet6nxsbG8oI0q6it0"/>]()
 **Java e JDBC: trabalhando com um banco de dados** \
-[**Alura**](https://www.dio.me/) • Em andamento...\
-Linguagens & Tecnologias: `SQL Server`,`GitHub`,`.NET`,`C#`,`Docker`,`My SQL`\
+[**Alura**](https://www.dio.me/) • In progress...\
+Languages & Technologies: `SQL Server`,`GitHub`,`.NET`,`C#`,`Docker`,`My SQL`\
 <br/>
 [<img align="left" height="80px" width="80px" alt="ZigTickets" src="https://play-lh.googleusercontent.com/wKwW77zj6Gd-llTDakdjSDnWUPKSMDGXhnZSXel3A3qQSiM1cbDvuspBpQk15tiT9ik"/>]()
 **Curso de JavaScript e TypeScript do básico ao avançado JS/TS** \
-[**Udemy**](https://www.udemy.com) • Em andamento...\
-Linguagens & Tecnologias: `JavaScript`, `Typescript`, `NodeJS`,`React`\
+[**Udemy**](https://www.udemy.com) • In progress...\
+Languages & Technologies: `JavaScript`, `Typescript`, `NodeJS`,`React`\
 <br/>
 [<img align="left" height="80px" width="80px" alt="Dio" src="https://media.licdn.com/dms/image/v2/D4D0BAQG1Fkv7mlaB5g/company-logo_200_200/company-logo_200_200/0/1726841792041/dio_makethechange_logo?e=1735776000&v=beta&t=QUbDBII9lTonr9g1CO0likn2juCpGM5ffWI7qNNS52Y"/>]()
 **.NET Developer** \
-[**Dio**](https://www.dio.me/) • Junho 2024\
-Linguagens & Tecnologias: `SQL Server`,`GitHub`,`.NET`,`C#`,`Docker`,`My SQL`\
+[**Dio**](https://www.dio.me/) • June 2024\
+Languages & Technologies: `SQL Server`,`GitHub`,`.NET`,`C#`,`Docker`,`My SQL`\
 <br/>
 </details>
 
-<h3 align="left">📩 Contatos:</h3>
+<h3 align="left">📩 Contacts:</h3>
 
-<i>Estou deixando aqui outras maneiras onde você pode me encontrar ou me contatar, fique à vontade </i>
+<i>I’m leaving here other ways you can find or contact me, feel free to reach out. </i>
 <br/>
 
 <div align="left"> 
