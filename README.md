@@ -8,15 +8,14 @@
 <h3 align="left">💬 Overview:</h3>
 
 <p>
-  Olá, sou Raphael Simões Gomes, estudante de Ciência da Computação na FAESA, atualmente no quarto período. Iniciei minha jornada na programação durante o curso técnico em Jogos Digitais no   SESI/SENAI, onde adquiri habilidades sólidas em C#, Unity, Adobe Illustrator, entre muitas outras. Agora, estou aprofundando meus conhecimentos em NodeJS, JavaScript, React, CSS, HTML e em sistemas de gerenciamento de banco de dados, como o MySQL.
-  </p>
+  Hello, my name is Raphael Simões Gomes, and I am a Computer Science student at FAESA, currently in my fourth semester. I began my programming journey during a technical course in Digital Games at SESI/SENAI, where I gained solid skills in C#, Unity, Adobe Illustrator, among many others. Now, I am deepening my knowledge in NodeJS, JavaScript, React, CSS, HTML, and database management systems such as MySQL.
+</p>
 
 <h3 align="left">🌎</h3>
 
 <p>
-  Hello, my name is Raphael Simões Gomes, and I am a Computer Science student at FAESA, currently in my fourth semester. I began my programming journey during a technical course in Digital Games at SESI/SENAI, where I gained solid skills in C#, Unity, Adobe Illustrator, among many others. Now, I am deepening my knowledge in NodeJS, JavaScript, React, CSS, HTML, and database management systems such as MySQL.
-</p>
-
+  Olá, sou Raphael Simões Gomes, estudante de Ciência da Computação na FAESA, atualmente no quarto período. Iniciei minha jornada na programação durante o curso técnico em Jogos Digitais no   SESI/SENAI, onde adquiri habilidades sólidas em C#, Unity, Adobe Illustrator, entre muitas outras. Agora, estou aprofundando meus conhecimentos em NodeJS, JavaScript, React, CSS, HTML e em sistemas de gerenciamento de banco de dados, como o MySQL.
+  </p>
 
 <h3 align="left">📖 Languages:</h3>
 
