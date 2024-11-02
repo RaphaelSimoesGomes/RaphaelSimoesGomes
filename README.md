@@ -37,7 +37,7 @@
 </br>
 </br>
 
-[<img align="left" height="80px" width="80px" alt="ZigTickets" src="https://media.licdn.com/dms/image/v2/D4D0BAQENlpmFDkr26g/company-logo_200_200/company-logo_200_200/0/1727784713364/grupo_aguia_branca_logo?e=1735776000&v=beta&t=_mRnxXUCykxccNH2oy_dijyuQTgzFnY7wDikTXzAf90"/>](https://www.gab.com.br/)
+[<img align="left" height="80px" width="80px" alt="Grupo Aguia Branca" src="https://media.licdn.com/dms/image/v2/D4D0BAQGOjbSlboFI2Q/company-logo_200_200/company-logo_200_200/0/1730381817690/grupo_aguia_branca_logo?e=1738800000&v=beta&t=1EtRpzG0gbq-9ZIpYNPLDJOBXjXXWlFUIEDwIQoVLhs"/>](https://www.gab.com.br/)
 **Internship - IT Technician** \
 [**Grupo Águia Branca**](https://www.gab.com.br/) • August 2024 - moment  \
 <br/>
