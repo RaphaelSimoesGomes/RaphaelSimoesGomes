@@ -29,7 +29,7 @@
 
 <h3>🛠 Other technologies also used:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=ai,ps,github,mysql,vscode,unity,windows&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,mysql,vscode,unity,windows&perline=5)](https://skillicons.dev)
 <br/>
 
 <h3 align="left">💼 Work Experiences:</h3>
