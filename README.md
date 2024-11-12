@@ -1,10 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00494c&height=120&section=header"/>
-<details>
-  <summary><h4>⚡ Github Stats: </h4><i> (Clique aqui)</i></summary>
-  
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=RaphaelSimoesGomes&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelSimoesGomes&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-</details>
+
 <h3 align="left">💬 Overview:</h3>
 
 <p>
@@ -16,7 +11,12 @@
 <p>
   Olá, sou Raphael Simões Gomes, estudante de Ciência da Computação na FAESA, atualmente no quarto período. Iniciei minha jornada na programação durante o curso técnico em Jogos Digitais no   SESI/SENAI, onde adquiri habilidades sólidas em C#, Unity, Adobe Illustrator, entre muitas outras. Agora, estou aprofundando meus conhecimentos em NodeJS, JavaScript, React, CSS, HTML e em sistemas de gerenciamento de banco de dados, como o MySQL.
   </p>
-
+<details>
+  <summary><h4>⚡ Github Stats: </h4><i> (Clique aqui)</i></summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=RaphaelSimoesGomes&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelSimoesGomes&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
 <h3 align="left">📖 Languages:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,java,cs,py,php&perline=5)](https://skillicons.dev)
@@ -56,33 +56,6 @@
 [**Zig.Tickets**](https://www.zig.tickets/?st=Esp%C3%ADrito%20Santo) • April 2022 - October 2022  \
 <br/>
 <br/>
-
-<details>
-<summary><h3>🎓 Courses & Certificates:</h3><i> (Click here)</i><br/>   <i>In this section, you can find some of my ongoing or recently completed courses. 📚 <br/> (You can find all the courses I've taken on my LinkedIn)</i>
-</summary>
-  <br/>
-  
-   [<img align="left" height="80px" width="80px" alt="FAESA" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSSJ5TyESs-WoQwyVfJMvGE6FT1DMWhgBZ3tiMVZ8REg&s"/>](https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s176-c-k-c0x00ffffff-no-rj)
-**Ciência da Computação** \
-[**FAESA - Centro Universitário**](https://www.faesa.br/) • December 2026\
-Languages & Technologies: `Python`, `Java`, `C++`\
-<br/>
-[<img align="left" height="80px" width="80px" alt="Dio" src="https://media.licdn.com/dms/image/v2/D4D0BAQEZkMsv5FwbDA/company-logo_200_200/company-logo_200_200/0/1710187635900/aluracursos_logo?e=1735776000&v=beta&t=1KbTouQQnZpMjfLSEzkChRK9MDet6nxsbG8oI0q6it0"/>]()
-**Java e JDBC: trabalhando com um banco de dados** \
-[**Alura**](https://www.dio.me/) • In progress...\
-Languages & Technologies: `SQL Server`,`GitHub`,`.NET`,`C#`,`Docker`,`My SQL`\
-<br/>
-[<img align="left" height="80px" width="80px" alt="ZigTickets" src="https://play-lh.googleusercontent.com/wKwW77zj6Gd-llTDakdjSDnWUPKSMDGXhnZSXel3A3qQSiM1cbDvuspBpQk15tiT9ik"/>]()
-**Curso de JavaScript e TypeScript do básico ao avançado JS/TS** \
-[**Udemy**](https://www.udemy.com) • In progress...\
-Languages & Technologies: `JavaScript`, `Typescript`, `NodeJS`,`React`\
-<br/>
-[<img align="left" height="80px" width="80px" alt="Dio" src="https://media.licdn.com/dms/image/v2/D4D0BAQG1Fkv7mlaB5g/company-logo_200_200/company-logo_200_200/0/1726841792041/dio_makethechange_logo?e=1735776000&v=beta&t=QUbDBII9lTonr9g1CO0likn2juCpGM5ffWI7qNNS52Y"/>]()
-**.NET Developer** \
-[**Dio**](https://www.dio.me/) • June 2024\
-Languages & Technologies: `SQL Server`,`GitHub`,`.NET`,`C#`,`Docker`,`My SQL`\
-<br/>
-</details>
 
 <h3 align="left">📩 Contacts:</h3>
 
