@@ -37,13 +37,12 @@
 </br>
 </br>
 
-[<img align="left" height="80px" width="80px" alt="Grupo Aguia Branca" src="https://media.licdn.com/dms/image/v2/D4D0BAQGOjbSlboFI2Q/company-logo_200_200/company-logo_200_200/0/1730381817690/grupo_aguia_branca_logo?e=1738800000&v=beta&t=1EtRpzG0gbq-9ZIpYNPLDJOBXjXXWlFUIEDwIQoVLhs"/>](https://www.gab.com.br/)
-**Internship - IT Technician** \
+[<img align="left" height="80px" width="80px" alt="Grupo Aguia Branca" src="https://cdn.brandfetch.io/idfhX6aaX6/w/1080/h/1080/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1740527906350"/>](https://www.gab.com.br/)
 [**Grupo Águia Branca**](https://www.gab.com.br/) • August 2024 - moment  \
 <br/>
 <br/>
 
-[<img align="left" height="80px" width="80px" alt="FIX" src="https://www.faesa.br/hubfs/site/cropped-logo_faesa_perfil.png"/>](https://www.faesa.br)
+[<img align="left" height="80px" width="80px" alt="Faesa" src="https://www.semesp.org.br/wp-content/uploads/2022/02/centro-universitario-faesa.png"/>](https://www.faesa.br)
 
 **Internship - IT Technician** \
 [**CET-FAESA**](https://www.faesa.br) • April 2024 - August 2024\
